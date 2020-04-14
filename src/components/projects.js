@@ -33,7 +33,7 @@ class Projects extends Component {
           </CardText>
           <CardActions border>
             <Button colored><a href="https://github.com/fabricio-garcia/Using-Boostrap" rel="noopener noreferrer" target="_blank">GitHub</a></Button>
-            <Button colored><a href="#" rel="noopener noreferrer" target="_blank">LiveDemo</a></Button>
+            <Button colored><a href="/" rel="noopener noreferrer" target="_blank">LiveDemo</a></Button>
           </CardActions>
           <CardMenu style={{color: '#fff'}}>
             <IconButton name="share" />

@@ -8,16 +8,8 @@ class Contact extends Component {
       <div className="contact-body">
         <Grid className="contact-grid">
           <Cell col={6}>
-            <h2>Fabricio Garcia</h2>
-            <img
-              src={avatar}
-              alt="avatar"
-              style={{height: '250px'}}
-               />
-             <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}>Hello stranger! My name is Fabricio and I graduated as a Software Development Engineer from
-             the Universidad Abierta y a Distancia de Mexico, shortly after, I enrolled in Microverse where I learned a lot from the industry by working with people from
-             all over the world with different backgrounds. My skill set includes creating code in different languages and frameworks such as Ruby, Rails, JavaScript and
-             React always applying the best practices.</p>
+            <h2 className="contact-name">Fabricio Garcia</h2>
+            <p>Full Stack Web Developer</p>
           </Cell>
           <Cell col={6}>
           <h2>Contact Me</h2>

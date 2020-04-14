@@ -8,21 +8,19 @@ import { Link } from 'react-router-dom';
 
 function App() {
   return (
-    <div className="demo-big-content">
+    <div className="navbar">
     <Layout>
-        <Header className="header-color" title="Title" scroll>
+        <Header className="header-color" title={<Link style={{textDecoration: 'none', color: 'white'}} to="/">Home</Link>} scroll>
             <Navigation>
                 <Link to="/resume">Resume</Link>
                 <Link to="/projects">Projects</Link>
-                <Link to="/about">About Me</Link>
                 <Link to="/contact">Contact Me</Link>
             </Navigation>
         </Header>
-        <Drawer title="Title">
+        <Drawer title={<Link style={{textDecoration: 'none', color: 'black'}} to="/">Home</Link>}>
             <Navigation>
                 <Link to="/resume">Resume</Link>
                 <Link to="/projects">Projects</Link>
-                <Link to="/about">About Me</Link>
                 <Link to="/contact">Contact Me</Link>
             </Navigation>
         </Drawer>

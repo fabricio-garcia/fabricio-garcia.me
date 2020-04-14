@@ -5,7 +5,7 @@ import avatar from '../images/avatar.png';
 class Landing extends Component {
   render() {
     return (
-      <div style={{width: '100%', margin: 'auto'}}>
+      <div className="landing-main">
         <Grid className="landing-grid">
           <Cell col={12}>
             <img
