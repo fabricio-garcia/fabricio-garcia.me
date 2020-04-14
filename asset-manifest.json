@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fabricio-garcia.me/static/css/main.5f361e03.chunk.css",
+    "main.js": "/fabricio-garcia.me/static/js/main.64d384f3.chunk.js",
+    "main.js.map": "/fabricio-garcia.me/static/js/main.64d384f3.chunk.js.map",
+    "runtime-main.js": "/fabricio-garcia.me/static/js/runtime-main.010775e7.js",
+    "runtime-main.js.map": "/fabricio-garcia.me/static/js/runtime-main.010775e7.js.map",
+    "static/js/2.e6023105.chunk.js": "/fabricio-garcia.me/static/js/2.e6023105.chunk.js",
+    "static/js/2.e6023105.chunk.js.map": "/fabricio-garcia.me/static/js/2.e6023105.chunk.js.map",
+    "index.html": "/fabricio-garcia.me/index.html",
+    "precache-manifest.7a90150f98a7e31028261cb5a59710ac.js": "/fabricio-garcia.me/precache-manifest.7a90150f98a7e31028261cb5a59710ac.js",
+    "service-worker.js": "/fabricio-garcia.me/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/fabricio-garcia.me/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e6023105.chunk.js.LICENSE.txt": "/fabricio-garcia.me/static/js/2.e6023105.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/fabricio-garcia.me/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.010775e7.js",
+    "static/js/2.e6023105.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.64d384f3.chunk.js"
+  ]
+}
