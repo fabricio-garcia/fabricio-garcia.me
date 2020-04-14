@@ -1,4 +1,40 @@
+<!-- PROJECT SHIELDS -->
+<!--
+*** "reference style" links are used for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues-open][issues-open-shield]][issues-open-url]
+[![Issues-closed][issues-closed-shield]][issues-closed-url]
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://www.microverse.org/">
+    <img src="/src/img/microverse.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h1 align="center">
+	Project: Choose and Build a Portfolio
+  </h1>
+
+  <p align="center">
+    A personal portfolio project created with the React library
+    <br />
+  </p>
+</p>
+
+![portfolio_project](src/img/portfolio.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Getting Started
 
 ## Available Scripts
 
@@ -66,3 +102,43 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+# Live Demo
+
+[http://fabricio-garcia.me](http://fabricio-garcia.me)
+
+# Author
+
+👨 [Fabricio Garcia](https://github.com/fabricio-garcia)
+
+# Contributing
+
+Contributions, issues and feature requests are welcome!
+
+# Acknowledgements
+
+- [Microverse](https://www.microverse.org/)
+- [The Odin Project](https://www.theodinproject.com/)
+
+# Show your support
+
+Give a ⭐️ if you like this project!
+
+# License
+
+This project is licensed under the Apache 2.0 License \
+Feel free to fork this project and improve it
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[contributors-shield]: https://img.shields.io/github/contributors/fabricio-garcia/fabricio-garcia.me?style=plastic
+[contributors-url]: https://github.com/fabricio-garcia/fabricio-garcia.me/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/fabricio-garcia/fabricio-garcia.me?style=plastic
+[forks-url]: https://github.com/fabricio-garcia/fabricio-garcia.me/network/members
+[stars-shield]: https://img.shields.io/github/stars/fabricio-garcia/fabricio-garcia.me?style=plastic
+[stars-url]: https://github.com/fabricio-garcia/fabricio-garcia.me/stargazers
+[issues-open-shield]: https://img.shields.io/github/issues/fabricio-garcia/fabricio-garcia.me?style=plastic
+[issues-closed-url]: https://github.com/fabricio-garcia/fabricio-garcia.me/issues
+[issues-closed-shield]: https://img.shields.io/github/issues-closed/fabricio-garcia/fabricio-garcia.me?style=plastic
+[issues-open-url]: https://github.com/fabricio-garcia/fabricio-garcia.me/issues
