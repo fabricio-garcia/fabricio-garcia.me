@@ -1,3 +1,5 @@
+/* Landing Page */
+
 .header-color {
   background: #2193b0;  /* fallback for old browsers */
   background: -webkit-linear-gradient(to left, #6dd5ed, #2193b0);  /* Chrome 10-25, Safari 5.1-6 */
@@ -60,6 +62,49 @@
   padding: 8px;
 }
 
+/* Projects Page */
+
 .projects-grid {
   display: flex;
+}
+
+/* Contact Page */
+
+.contact-body {
+  margin: auto;
+  justify-content: center;
+  padding-top: 2em;
+  position: fixed;
+  height: 100%;
+  width: 100%;
+}
+
+.contact-grid {
+  background: white;
+  text-align: center;
+  padding-top: 2em;
+  position: fixed;
+  height: 550px;
+  width: 80%;
+  margin-bottom: 20px;
+}
+
+.contact-grid h2 {
+  font-family: 'Anton', sans-serif;
+}
+
+.contact-grid p {
+  font-family: 'Oxygen', sans-serif;
+  font-weight: bold;
+}
+
+.contact-grid hr {
+  border-top: 5px dotted black;
+  width: 50%;
+  margin: auto;
+}
+
+.contact-list i {
+  font-size: 66px;
+  padding-right: 5rem;
 }
