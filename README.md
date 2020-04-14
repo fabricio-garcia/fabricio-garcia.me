@@ -17,7 +17,7 @@
 <br />
 <p align="center">
   <a href="https://www.microverse.org/">
-    <img src="/src/img/microverse.png" alt="Logo" width="80" height="80">
+    <img src="/src/images/microverse.png" alt="Logo" width="80" height="80">
   </a>
 
   <h1 align="center">
@@ -26,11 +26,10 @@
 
   <p align="center">
     A personal portfolio project created with the React library
-    <br />
-  </p>
+  
 </p>
 
-![portfolio_project](src/img/portfolio.png)
+![portfolio_project](src/images/portfolio.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
