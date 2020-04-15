@@ -25,8 +25,7 @@
   </h1>
 
   <p align="center">
-    A personal portfolio project created with the React library
-  
+    A personal portfolio project created with the React
 </p>
 
 ![portfolio_project](src/images/portfolio.png)
@@ -131,13 +130,13 @@ Feel free to fork this project and improve it
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/fabricio-garcia/fabricio-garcia.me?style=plastic
-[contributors-url]: https://github.com/fabricio-garcia/fabricio-garcia.me/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/fabricio-garcia/fabricio-garcia.me?style=plastic
-[forks-url]: https://github.com/fabricio-garcia/fabricio-garcia.me/network/members
-[stars-shield]: https://img.shields.io/github/stars/fabricio-garcia/fabricio-garcia.me?style=plastic
-[stars-url]: https://github.com/fabricio-garcia/fabricio-garcia.me/stargazers
-[issues-open-shield]: https://img.shields.io/github/issues/fabricio-garcia/fabricio-garcia.me?style=plastic
-[issues-closed-url]: https://github.com/fabricio-garcia/fabricio-garcia.me/issues
-[issues-closed-shield]: https://img.shields.io/github/issues-closed/fabricio-garcia/fabricio-garcia.me?style=plastic
-[issues-open-url]: https://github.com/fabricio-garcia/fabricio-garcia.me/issues
+[contributors-shield]: https://img.shields.io/github/contributors/fabricio-garcia/portfolio?style=plastic
+[contributors-url]: https://github.com/fabricio-garcia/portfolio/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/fabricio-garcia/portfolio?style=plastic
+[forks-url]: https://github.com/fabricio-garcia/portfolio/network/members
+[stars-shield]: https://img.shields.io/github/stars/fabricio-garcia/portfolio?style=plastic
+[stars-url]: https://github.com/fabricio-garcia/portfolio/stargazers
+[issues-open-shield]: https://img.shields.io/github/issues/fabricio-garcia/portfolio?style=plastic
+[issues-closed-url]: https://github.com/fabricio-garcia/portfolio/issues
+[issues-closed-shield]: https://img.shields.io/github/issues-closed/fabricio-garcia/portfolio?style=plastic
+[issues-open-url]: https://github.com/fabricio-garcia/portfolio/issues
